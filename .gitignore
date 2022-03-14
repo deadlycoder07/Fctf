@@ -16,3 +16,5 @@
 
 # Exclude env 
 .env
+# exclude test files
+test.go
